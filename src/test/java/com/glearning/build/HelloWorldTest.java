@@ -10,7 +10,7 @@ public class HelloWorldTest {
  public void testSum(){
      HelloWorld helloWorld = new HelloWorld();
      int result = helloWorld.sum(45, 56);
-     Assert.assertEquals(10, result);
+     Assert.assertEquals(101, result);
  }
 
 }
