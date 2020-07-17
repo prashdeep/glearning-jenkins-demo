@@ -9,7 +9,7 @@ public class HelloWorldTest {
  @Test
  public void testSum(){
      HelloWorld helloWorld = new HelloWorld();
-     int result = helloWorld.sum(45, 56);
+     int result = helloWorld.sum(99, 56);
      Assert.assertEquals(101, result);
  }
 
