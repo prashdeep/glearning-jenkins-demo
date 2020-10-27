@@ -6,7 +6,7 @@ public class HelloWorld {
         System.out.println("Hello world!!");
     }
 
-    public int sum(int a , int b){
+    public t sum(int a , int b){
         return a + b;
     }
 
