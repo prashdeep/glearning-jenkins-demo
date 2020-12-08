@@ -13,6 +13,10 @@ public class HelloWorld {
     public int sub(int a , int b){
         return a - b;
     }
+    
+     public long addition(int a , long b){
+        return a + b;
+    }
 
     public int product(int a , int b){
         return a * b;
